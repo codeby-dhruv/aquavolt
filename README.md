@@ -120,16 +120,6 @@ The result must be a COMPLETE PLAYABLE GAME, not a mockup or prototype.
 
 Do not simply reproduce the original Chrome Dino game. Create an advanced, visually impressive, original prehistoric endless runner that demonstrates the maximum quality possible inside a browser.
 
-This project was built with [Lovable](https://lovable.dev).
-
-## Build with Lovable
-
-Continue developing this project in the [Lovable editor](https://lovable.dev/projects/d41877ef-6daa-45ea-8c54-476cbd0a5939).
-
-- **Ship faster**: describe what you want to build and Lovable handles the code.
-- **Stay in sync**: every change made in Lovable is committed straight to this repository.
-- **Full ownership**: this code is yours. Push to `main` on GitHub and your changes sync back into Lovable, ready for your next prompt.
-
 ## Development
 
 Prefer working locally? You need Node.js and npm — [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating).
